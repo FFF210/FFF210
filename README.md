@@ -22,7 +22,7 @@
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <br/></div>
-      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 Learning </h2> <br> 
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 Studying </h2> <br> 
 <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"></div>
@@ -30,7 +30,7 @@
 
 
 
-## 🚀 Projects
+## 🚀 Main Projects
 
 ### 1️⃣ [JOINus]
 Spring Boot 기반 REST API 서버 구축 및  
